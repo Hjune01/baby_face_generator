@@ -116,7 +116,3 @@
 | AFLW | 다양한 자세의 얼굴 + 랜드마크 | [🔗 바로가기](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/) |
 
 ---
-
-## 📧 문의 및 협업
-
-이 프로젝트에 기여하고 싶거나 문의 사항이 있다면, Issues 또는 Pull Request를 통해 참여해주세요! 🙌
